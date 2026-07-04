@@ -1,12 +1,6 @@
 # International Debt SQL Analysis
 ## Project Overview
 This project involves analyzing international debt data collected by The World Bank. The dataset contains comprehensive information about the debt (in USD) owed by various developing countries across multiple categories. Using SQL, this project extracts meaningful insights regarding the total number of indebted countries, identifying the country with the highest overall debt, and pinpointing the country with the lowest principal repayments.
-## Repository Name Suggestions
-If you are planning to host this on GitHub, here are a few suggested repository names:
-- `international-debt-sql-analysis` (Recommended)
-- `world-bank-debt-analysis`
-- `sql-world-bank-debt`
-- `global-debt-insights-sql`
 ## Dataset Information
 The analysis runs on the `international_debt` table, which includes the following schema:
 | Column | Definition | Data Type |
